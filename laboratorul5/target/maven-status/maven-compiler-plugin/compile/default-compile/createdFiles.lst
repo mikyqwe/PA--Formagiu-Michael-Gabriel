@@ -1,0 +1,8 @@
+com\mycompany\laboratorul5\InvalidURLException.class
+com\mycompany\laboratorul5\InvalidCatalogException.class
+com\mycompany\laboratorul5\InvalidPathException.class
+com\mycompany\laboratorul5\Main.class
+com\mycompany\laboratorul5\Document.class
+com\mycompany\laboratorul5\Catalog.class
+com\mycompany\laboratorul5\CatalogUtil.class
+com\mycompany\laboratorul5\DuplicateNameException.class
